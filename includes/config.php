@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER','3.143.195.202');
+define('DB_SERVER','localhost');
 define('DB_USER','root');
 define('DB_PASS' ,'kushagra');
 define('DB_NAME', 'shopping');
